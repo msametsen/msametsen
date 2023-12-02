@@ -1,5 +1,5 @@
 
-h1 align="center">Hi 👋, I'm Musa Samet Şen</h1>
+ 👋, I'm Musa Samet Şen</h1>
 <h3 align="center">Software Engineering Student</h3>
 
 <h3 align="left">Connect with me:</h3>
