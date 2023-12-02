@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**msametsen/msametsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+h1 align="center">Hi 👋, I'm Musa Samet Şen</h1>
+<h3 align="center">Software Engineering Student</h3>
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/musa samet şen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musa samet şen" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msametsen&show_icons=true&locale=en&layout=compact" alt="msametsen" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msametsen&show_icons=true&locale=en" alt="msametsen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msametsen&" alt="msametsen" /></p>
+
