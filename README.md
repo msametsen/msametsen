@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musa Samet Şen</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-<!-- Badge Style (Optional) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/musasametsen" target="blank">
